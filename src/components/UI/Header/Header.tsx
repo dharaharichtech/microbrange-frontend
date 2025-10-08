@@ -37,7 +37,7 @@ const Header: React.FC = () => {
       label: "Collaborations",
       icon: <Users className="w-5 h-5" />,
     },
-    { href: "/rd", label: "R & D", icon: <Users className="w-5 h-5" /> },
+    // { href: "/rd", label: "R & D", icon: <Users className="w-5 h-5" /> },
     {
       href: "/initiatives",
       label: "Our Initiatives",
