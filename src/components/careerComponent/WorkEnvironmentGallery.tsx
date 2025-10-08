@@ -12,7 +12,7 @@ interface ImageType {
 interface WorkEnvironmentGalleryProps {
   title: string;
   subTitle: string;
-  Images: ImageType[];
+  Images: ImageType[]; //comment
 }
 
 const WorkEnvironmentGallery: React.FC<WorkEnvironmentGalleryProps> = ({
