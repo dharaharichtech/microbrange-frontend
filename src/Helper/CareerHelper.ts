@@ -1,5 +1,5 @@
-import Banner from "../../public/Image/career/Banner/banner.png"
-import MobileBanner from "../../public/Image/career/Banner/mobile-banner.png"
+import Banner from "../../public/Image/career/banner.png"
+import MobileBanner from "../../public/Image/career/mobile-banner.png"
 import BtnSvg from "../../public/Image/InitiactiveImage/btn-svg.svg"
 
 import Envorment from "../../public/Image/career/work.png"
